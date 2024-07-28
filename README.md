@@ -1,10 +1,5 @@
 ### Hey Mohsen Linux here 👋
 
----
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Card.png" width="100%" title="Intro Card" alt="Intro Card">
-</p>
 
 I am Full stack Python developer of the automation apps and i dont what but im photographer and designer :cloud: while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. :wink:
  
@@ -65,7 +60,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [Souravdey777](https://github.com/U70U)
+:star: From [MohsenLinux](https://github.com/U70U)
 
 [website]: https://tavanaads.ir
 [twitter]: https://twitter.com/Mohsen_Linux
